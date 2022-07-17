@@ -36,4 +36,4 @@ Criação de projetos:
 
 * TypeScript com React.
 
-**OBS: Estarei implementando os exercícios conforme andamento do curso (em anamento).**
+**OBS: Estarei implementando os exercícios conforme andamento do curso (em andamento).**
